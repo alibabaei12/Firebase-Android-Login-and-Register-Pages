@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="EasyTradeTheme" parent="AppTheme" />
+
+    <style name="Theme.AppTheme.InputMethod" parent="android:Theme.DeviceDefault.Light.Dialog" />
+
+</resources>

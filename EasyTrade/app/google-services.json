@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1094585910729",
+    "firebase_url": "https://easy-trade-86014.firebaseio.com",
+    "project_id": "easy-trade-86014",
+    "storage_bucket": "easy-trade-86014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094585910729:android:950ff076dc4cfdf9",
+        "android_client_info": {
+          "package_name": "com.EasyTrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094585910729-seb0adhhd4dkg586m2qvn4d7g8v638pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0SeqlOdNdBoKf2byvURGhnXlwD5s-ik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094585910729:android:d815e5734be698a4",
+        "android_client_info": {
+          "package_name": "com.example.ali.easytrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094585910729-kq6954vaahu16b1f8udkc2t37rr7sojg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ali.easytrade",
+            "certificate_hash": "ee3e34d01661026532e46311363fffa53aab7983"
+          }
+        },
+        {
+          "client_id": "1094585910729-seb0adhhd4dkg586m2qvn4d7g8v638pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0SeqlOdNdBoKf2byvURGhnXlwD5s-ik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094585910729-seb0adhhd4dkg586m2qvn4d7g8v638pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
